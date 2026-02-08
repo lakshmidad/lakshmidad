@@ -54,7 +54,6 @@ I plan to sleep early every night… GitHub commits disagree.
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=lakshmidad)
 ## 📊 GitHub Stats
-
-![Lakshmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakshmidad&show_icons=true)
+ 
 
 
