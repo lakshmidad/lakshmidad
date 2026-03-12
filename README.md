@@ -48,12 +48,10 @@
 - Email: mindyalavenkatadurgalakshmi@gmail.com
 
 ## ⚡ Fun Fact
-I plan to sleep early every night… GitHub commits disagree.
-
+I don't need a social life, I have git commit -m 'fix'
 ## 🔥 Contribution Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=lakshmidad)
-## 📊 GitHub Stats
  
 
 
